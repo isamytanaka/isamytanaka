@@ -1,6 +1,7 @@
+> ![](1743125348758.png)
+> - I am a native Brazilian, with a basic level of English (B1).
+> 
 # Software Developer
-
-> I am a native Brazilian, with a basic level of English (B1).
 
 ## Skills & Experience
 ![Python](https://img.shields.io/badge/Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
