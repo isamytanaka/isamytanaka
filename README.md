@@ -16,5 +16,3 @@
 [![Python](https://img.shields.io/badge/Built_With-Python-4B8BBE?style=flat&logo=python&logoColor=white&labelColor=306998&fontFamily=Verdana&fontWeight=bold&borderRadius=20)](https://www.python.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat&logo=github&logoColor=white&labelColor=3CB371&fontFamily=Verdana&fontWeight=bold&borderRadius=20)](https://github.com/isamytanaka/EgoLang/pulls)
 [![Documentation](https://img.shields.io/badge/Docs-Latest-FF8C00?style=flat&logo=read-the-docs&logoColor=white&labelColor=FF4500&fontFamily=Verdana&fontWeight=bold&borderRadius=20)](https://github.com/isamytanaka/EgoLang/README.md)
-
-"**EgoLang** is a _modern programming language_ designed with a focus on code clarity, data integrity, and explicit intent. By enforcing strict typing and explicit declarations for variable visibility and mutability, **EgoLang** creates code that is not only more reliable and maintainable but also inherently more secure."
