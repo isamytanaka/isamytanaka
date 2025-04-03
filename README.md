@@ -1,7 +1,7 @@
-![](https://img.shields.io/badge/Python_Developer-4A4A4A?style=flat&logo=python&logoColor=C9C9C9&labelColor=3B3B3B&color=2F2F2F&fontFamily=Verdana&fontWeight=bold&borderRadius=20)
-![](https://img.shields.io/badge/Lua_Developer-44475A?style=flat&logo=lua&logoColor=C9C9C9&labelColor=282A36&color=2F2F2F&fontFamily=Verdana&fontWeight=bold&borderRadius=20)
-![](https://img.shields.io/badge/Brasileiro_Nativo-4A4A4A?style=flat&logo=brave&logoColor=00FF7F&labelColor=3B3B3B&color=2F2F2F&fontFamily=Verdana&fontWeight=bold&borderRadius=20)
-![](https://img.shields.io/badge/English-B1-4A4A4A?style=flat&logo=simple-icons&logoColor=C9C9C9&labelColor=3B3B3B&color=2F2F2F&fontFamily=Verdana&fontWeight=bold&borderRadius=20)
+![Python Developer](https://img.shields.io/badge/Python_Developer-3776AB?style=flat&logo=python&logoColor=FFD43B&labelColor=1E1E1E&color=306998&fontFamily=Verdana&fontWeight=bold&borderRadius=20)  
+![Lua Developer](https://img.shields.io/badge/Lua_Developer-000080?style=flat&logo=lua&logoColor=FFFFFF&labelColor=191970&color=4169E1&fontFamily=Verdana&fontWeight=bold&borderRadius=20)  
+![Brasileiro Nativo](https://img.shields.io/badge/Brasileiro_Nativo-008000?style=flat&logo=brave&logoColor=FFD700&labelColor=006400&color=32CD32&fontFamily=Verdana&fontWeight=bold&borderRadius=20)  
+![English B1](https://img.shields.io/badge/English-B1-FF4500?style=flat&logo=simple-icons&logoColor=FFFFFF&labelColor=FF6347&color=FF8C00&fontFamily=Verdana&fontWeight=bold&borderRadius=20)  
 
-![](https://img.shields.io/github/followers/isamytanaka?style=flat&logo=github&logoColor=C9C9C9&label=Followers&color=5A5A5A&labelColor=3B3B3B&fontFamily=Verdana&fontWeight=bold&borderRadius=20)
-![](https://img.shields.io/github/stars/isamytanaka?style=flat&logo=github&logoColor=C9C9C9&label=Stars&color=6A6A6A&labelColor=3B3B3B&fontFamily=Verdana&fontWeight=bold&borderRadius=20)
+![GitHub Followers](https://img.shields.io/github/followers/isamytanaka?style=flat&logo=github&logoColor=FFFFFF&label=Followers&color=FF1493&labelColor=8B008B&fontFamily=Verdana&fontWeight=bold&borderRadius=20)  
+![GitHub Stars](https://img.shields.io/github/stars/isamytanaka?style=flat&logo=github&logoColor=FFFFFF&label=Stars&color=FFD700&labelColor=FF8C00&fontFamily=Verdana&fontWeight=bold&borderRadius=20)
