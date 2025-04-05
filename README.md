@@ -7,15 +7,50 @@
 ![Linux User](https://img.shields.io/badge/Linux_User-FCC624?style=flat&logo=linux&logoColor=000000&labelColor=1E1E1E&color=FF4500)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF&labelColor=1E1E1E&color=A52A2A)  
 
+</div>
 
-[![EgoLang](https://img.shields.io/badge/EgoLang-%E2%9A%96%20Powered-FFD700?style=flat&logo=expensify&logoColor=00274D&labelColor=0057B7&color=00A4E0&borderRadius=50)](https://github.com/isamytanaka/EgoLang)
-[![Version](https://img.shields.io/badge/Version-2.8.0-FF4500?style=flat&logo=v&logoColor=white&labelColor=FF7F50&fontFamily=Verdana&fontWeight=bold&borderRadius=20)](https://github.com/isamytanaka/EgoLang)
-[![License](https://img.shields.io/badge/License-MIT-9370DB?style=flat&logo=license&logoColor=white&labelColor=8A2BE2&fontFamily=Verdana&fontWeight=bold&borderRadius=20)](https://github.com/isamytanaka/EgoLang/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Built_With-Python-4B8BBE?style=flat&logo=python&logoColor=white&labelColor=306998&fontFamily=Verdana&fontWeight=bold&borderRadius=20)](https://www.python.org/)
+---
 
+## Projects
 
-[![Vertex Engine](https://img.shields.io/badge/Vertex_Effects_Engine-FX_Core-8A2BE2?style=flat&logo=ray&logoColor=white&labelColor=4B0082&color=6A5ACD)](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp)
-![License](https://img.shields.io/badge/License-MIT-DAA520?style=flat&logo=open-source-initiative&logoColor=white&labelColor=B8860B&color=FFD700)
-![Made with Lua](https://img.shields.io/badge/Made_with-Lua-000080?style=flat&logo=lua&logoColor=white&labelColor=191970&color=4169E1)
-![Unity Compatible](https://img.shields.io/badge/Unity_Compatible-Engine_Ready-000000?style=flat&logo=unity&logoColor=white&labelColor=333333&color=222222)
-![Shader Support](https://img.shields.io/badge/Shader_Compatible-Yes-8B008B?style=flat&logo=opengl&logoColor=white&labelColor=4B0082&color=9400D3)
+### EgoLang
+
+[![EgoLang](https://img.shields.io/badge/EgoLang-%E2%9A%96%20Powered-FFD700?style=flat&logo=expensify&logoColor=00274D&labelColor=0057B7&color=00A4E0&borderRadius=50)](https://github.com/isamytanaka/EgoLang)  
+[![Version](https://img.shields.io/badge/Version-2.8.0-FF4500?style=flat&logo=v&logoColor=white&labelColor=FF7F50&borderRadius=20)](https://github.com/isamytanaka/EgoLang)  
+[![License](https://img.shields.io/badge/License-MIT-9370DB?style=flat&logo=license&logoColor=white&labelColor=8A2BE2&borderRadius=20)](https://github.com/isamytanaka/EgoLang/blob/main/LICENSE)  
+[![Python](https://img.shields.io/badge/Built_with-Python-4B8BBE?style=flat&logo=python&logoColor=white&labelColor=306998&borderRadius=20)](https://www.python.org/)
+
+---
+
+### Vertex Engine
+
+[![Vertex Engine](https://img.shields.io/badge/Vertex_Effects_Engine-FX_Core-8A2BE2?style=flat&logo=ray&logoColor=white&labelColor=4B0082&color=6A5ACD)](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp)  
+![License](https://img.shields.io/badge/License-MIT-DAA520?style=flat&logo=open-source-initiative&logoColor=white&labelColor=B8860B&color=FFD700)  
+![Built with Lua](https://img.shields.io/badge/Built_with-Lua-000080?style=flat&logo=lua&logoColor=white&labelColor=191970&color=4169E1)  
+![Unity Compatible](https://img.shields.io/badge/Unity_Compatible-Engine_Ready-000000?style=flat&logo=unity&logoColor=white&labelColor=333333&color=222222)  
+![Shader Support](https://img.shields.io/badge/Shader_Compatible-Yes-8B008B?style=flat&logo=opengl&logoColor=white&labelColor=4B0082&color=9400D3)  
+
+---
+
+### PixelG
+
+<div align="center">
+
+<a href="https://github.com/isamytanaka/PixelG">
+  <img src="https://img.shields.io/badge/PixelG-Pixel_Art_Tool-FF69B4?style=flat&logo=artstation&logoColor=white&labelColor=C71585&color=DB7093" alt="PixelG">
+</a>  
+<a href="https://github.com/isamytanaka/PixelG/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-DAA520?style=flat&logo=open-source-initiative&logoColor=white&labelColor=B8860B&color=FFD700" alt="MIT License">
+</a>  
+<img src="https://img.shields.io/badge/Built_with-HTML,_CSS,_JavaScript-E34F26?style=flat&logo=javascript&logoColor=white&labelColor=F08080&color=FF6347" alt="Built with HTML, CSS and JavaScript">  
+<a href="https://github.com/isamytanaka/PixelG/releases">
+  <img src="https://img.shields.io/badge/Version-1.0.0-00CED1?style=flat&logo=semantic-release&logoColor=white&labelColor=008B8B&color=20B2AA" alt="Version 1.0.0">
+</a>  
+<img src="https://img.shields.io/badge/Status-Active_Development-32CD32?style=flat&logo=githubactions&logoColor=white&labelColor=006400&color=228B22" alt="Status Active Development">  
+<img src="https://img.shields.io/badge/Platform-Web_Only-1E90FF?style=flat&logo=googlechrome&logoColor=white&labelColor=4682B4&color=6495ED" alt="Platform Web">
+
+</div>
+
+---
+
+**_Simple and clean. Projects with love, logic, and open source._**
