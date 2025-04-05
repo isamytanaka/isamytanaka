@@ -21,6 +21,7 @@
 ### Vertex Engine
 
 [![Vertex Engine](https://img.shields.io/badge/Vertex_Effects_Engine-FX_Core-8A2BE2?style=flat&logo=ray&logoColor=white&labelColor=4B0082&color=6A5ACD)](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp)  
+![Version](https://img.shields.io/badge/Version-1.0.0-00CED1?style=flat&logo=semantic-release&logoColor=white&labelColor=008B8B&color=20B2AA)  
 ![License](https://img.shields.io/badge/License-MIT-DAA520?style=flat&logo=open-source-initiative&logoColor=white&labelColor=B8860B&color=FFD700)  
 ![Built with Lua](https://img.shields.io/badge/Built_with-Lua-000080?style=flat&logo=lua&logoColor=white&labelColor=191970&color=4169E1)  
 ![Unity Compatible](https://img.shields.io/badge/Unity_Compatible-Engine_Ready-000000?style=flat&logo=unity&logoColor=white&labelColor=333333&color=222222)  
