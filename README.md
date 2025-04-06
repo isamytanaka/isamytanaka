@@ -32,7 +32,4 @@ Click the badge above to become a supporter and make a difference!
 ##
 **Simple and clean. Projects with love, logic, and open source.**
 
-All Apoia.se supporters receive special perks — and one of them is being featured right here! **:3**
-Check out the awesome supporters below!
-
 </div>
