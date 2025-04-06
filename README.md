@@ -1,6 +1,12 @@
 <div align="center">
-  
-![Profile Views](https://count.getloli.com/get/@isamytanaka.github.readme)
+
+## Support Isamy Tanaka on Apoia.se! ❤️
+
+If you enjoy Isamy Tanaka's content and want to help create more, consider supporting through Apoia.se! Your contribution grants you exclusive benefits and lets you be part of an amazing creative journey.
+
+[![Support on Apoia.se](https://img.shields.io/badge/Apoia.se-Support_Isamy_Tanaka-D72638?style=flat&logo=buymeacoffee&logoColor=white&labelColor=FF3D3D&color=D72638)](https://apoia.se/isamytanaka)
+
+Click the badge above to become a supporter and make a difference!
   
 ## My
 
@@ -20,6 +26,10 @@
 
 [![PixelG](https://img.shields.io/badge/PixelG-Pixel_Art_Tool-FF69B4?style=flat&logo=artstation&logoColor=white&labelColor=C71585&color=DB7093)](https://github.com/isamytanaka/PixelG) [![License](https://img.shields.io/badge/License-MIT-DAA520?style=flat&logo=open-source-initiative&logoColor=white&labelColor=B8860B&color=FFD700)](https://github.com/isamytanaka/PixelG/blob/main/LICENSE) ![Buiit with HTML, CSS and JavaScript](https://img.shields.io/badge/Buiit_with-HTML,_CSS,_JavaScript-E34F26?style=flat&logo=javascript&logoColor=white&labelColor=F08080&color=FF6347) [![Version](https://img.shields.io/badge/Version-1.0.0-00CED1?style=flat&logo=semantic-release&logoColor=white&labelColor=008B8B&color=20B2AA)](https://github.com/isamytanaka/PixelG/releases) ![Status Active Development](https://img.shields.io/badge/Status-Active_Development-32CD32?style=flat&logo=githubactions&logoColor=white&labelColor=006400&color=228B22) ![Platform Web](https://img.shields.io/badge/Platform-Web_Only-1E90FF?style=flat&logo=googlechrome&logoColor=white&labelColor=4682B4&color=6495ED)
 
+##
 **Simple and clean. Projects with love, logic, and open source.**
+
+All Apoia.se supporters receive special perks — and one of them is being featured right here! **:3**
+Check out the awesome supporters below!
 
 </div>
