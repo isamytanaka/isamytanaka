@@ -7,6 +7,9 @@ If you enjoy Isamy Tanaka's content and want to help create more, consider suppo
 [![Support on Apoia.se](https://img.shields.io/badge/Apoia.se-Support_Isamy_Tanaka-D72638?style=flat&logo=buymeacoffee&logoColor=white&labelColor=FF3D3D&color=D72638)](https://apoia.se/isamytanaka)
 
 Click the badge above to become a supporter and make a difference!
+
+![Visualizações de Perfil](https://count.getloli.com/get/@isamytanaka.github.readme)
+
   
 ## My
 
