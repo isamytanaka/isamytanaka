@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=Developer+specializing+in+Game+Tools+and+Security;Transpiler+Engineer+and+DSL+Creator;SA:MP+Developer+and+Mod+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=Software+Engineer+and+Developer;High+School+Freshman;Future+Computer+Scientist+and+Software+Engineer)](https://git.io/typing-svg)
 
 ![Profile Views](https://count.getloli.com/get/@isamytanaka.github.readme)
 
@@ -22,33 +22,23 @@ Currently improving my English (A2 level) and expanding my programming skills.
 
 ## Tech Stack
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=I+don't+like+working+with+JS,+TS,+or+Frontend+:3)](https://git.io/typing-svg)
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-161b22?style=flat-square&logo=pawn&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SA:MP](https://img.shields.io/badge/SA:MP-161b22?style=flat-square&logo=rockstar-games&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-161b22?style=flat-square&logo=github&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-161b22?style=flat-square&logo=anthropic&logoColor=white)
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isamytanaka&theme=nord&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
 
-## GitHub Stats
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamytanaka&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamytanaka&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&custom_title=My+Tech+Stack"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isamytanaka&theme=dark&hide_border=true" width="100%"/>
 </div>
 
 ## More Projects Coming Soon
