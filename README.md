@@ -23,8 +23,6 @@ Currently improving my English (A2 level) and expanding my programming skills.
 ## Tech Stack
 
 
-
-### Languages
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -34,14 +32,9 @@ Currently improving my English (A2 level) and expanding my programming skills.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![SA:MP](https://img.shields.io/badge/SA:MP-161b22?style=flat-square&logo=rockstar-games&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Databases & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-161b22?style=flat-square&logo=github&logoColor=white)
@@ -57,32 +50,6 @@ Currently improving my English (A2 level) and expanding my programming skills.
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isamytanaka&theme=dark&hide_border=true" width="100%"/>
 </div>
-
-## Featured Projects
-
-### [Csmoon Effects](https://github.com/isamytanaka/Csmoon_Effects)
-**Lua-to-C# transpiler for game VFX**  
-
-![GitHub stars](https://img.shields.io/github/stars/isamytanaka/Csmoon_Effects?style=flat-square&logo=github&color=161b22&labelColor=000000)
-![GitHub forks](https://img.shields.io/github/forks/isamytanaka/Csmoon_Effects?style=flat-square&logo=github&color=161b22&labelColor=000000)
-![GitHub issues](https://img.shields.io/github/issues/isamytanaka/Csmoon_Effects?style=flat-square&logo=github&color=161b22&labelColor=000000)
-![GitHub last commit](https://img.shields.io/github/last-commit/isamytanaka/Csmoon_Effects?style=flat-square&logo=github&color=161b22&labelColor=000000)
-
-Transforms simple Lua scripts into optimized C# visual effects for Unity. Makes complex particle systems accessible to non-programmers. Features include automatic code generation, optimization for Unity, and an extensible architecture for custom effect modules.
-
-**Tech Stack:** `Lua` `C#` `Unity` `Transpiler` `DSL`
-
-### [Vertex Effects Engine Csharp](https://github.com/isamytanaka/Vertex_Effects_Engine_Csharp)
-**Domain-specific language for effect creation**  
-
-![GitHub stars](https://img.shields.io/github/stars/isamytanaka/Vertex_Effects_Engine_Csharp?style=flat-square&logo=github&color=161b22&labelColor=000000)
-![GitHub forks](https://img.shields.io/github/forks/isamytanaka/Vertex_Effects_Engine_Csharp?style=flat-square&logo=github&color=161b22&labelColor=000000)
-![GitHub issues](https://img.shields.io/github/issues/isamytanaka/Vertex_Effects_Engine_Csharp?style=flat-square&logo=github&color=161b22&labelColor=000000)
-![GitHub last commit](https://img.shields.io/github/last-commit/isamytanaka/Vertex_Effects_Engine_Csharp?style=flat-square&logo=github&color=161b22&labelColor=000000)
-
-Custom language compiler that generates Unity-compatible C# code. Abstracts complex mathematics behind intuitive syntax. Includes support for particle systems, shader generation, and visual effect programming without deep C# knowledge.
-
-**Tech Stack:** `Lua` `C#` `DSL` `Compiler` `Unity`
 
 ## More Projects Coming Soon
 
