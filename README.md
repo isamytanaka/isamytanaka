@@ -2,9 +2,11 @@
 
 # Isamy Tanaka | Developer
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=Cheater+Developer+-+Software+Engineer.)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=Software+Engineer+and+Developer;High+School+Freshman;Future+Computer+Scientist+and+Software+Engineer)](https://git.io/typing-svg)
+
 
 ![Profile Views](https://count.getloli.com/get/@isamytanaka.github.readme)
 
@@ -15,22 +17,21 @@
 ## About Me
 
 **Brazilian software developer focused on building impactful tools and utilities.**  
-Born on November 23, 2009. I develop compact yet powerful solutions (300–2,000 lines of code).  
+Born on November 23, 2009. I develop compact yet powerful solutions (50–2,000 lines of code).  
 Currently improving my English (A2 level) and expanding my programming skills.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favour.)](https://git.io/typing-svg)
 
 </div>
 
 ## Tech Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=I+don't+like+working+with+JS,+TS,+or+Frontend+:3)](https://git.io/typing-svg)
-
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SA:MP](https://img.shields.io/badge/SA:MP-161b22?style=flat-square&logo=rockstar-games&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 
 <div align="center">
