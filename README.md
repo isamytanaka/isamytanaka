@@ -14,12 +14,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/isamytanaka?style=flat-square&logo=github&color=161b22&labelColor=000000)](https://github.com/isamytanaka?tab=repositories)
 [![Apoia.se](https://img.shields.io/badge/Support-My_Work-161b22?style=flat-square&logo=buymeacoffee&labelColor=000000)](https://apoia.se/isamytanaka)
 
-## About Me
-
-**Brazilian software developer focused on building impactful tools and utilities.**  
-Born on November 23, 2009. I develop compact yet powerful solutions (50–2,000 lines of code).  
-Currently improving my English (A2 level) and expanding my programming skills.
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favour.)](https://git.io/typing-svg)
 
 </div>
